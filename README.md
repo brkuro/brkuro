@@ -5,3 +5,4 @@
 - 🛠️ **Foco atual:** C, C++, Python, TypeScript, Angular e Estrutura de Dados.
 - 🚀 **Repositório da Capacitação:** [capacitacao-asimov--brayan_cosme-](https://github.com/brkuro/capacitacao-asimov--brayan_cosme-)
 - 📬 **Contato:** brayanjustinianooliveira59856@gmail.com
+- 📝 **Currículo Online :** [brayanjustinianooliveira59856@gmail.com](https://brkuro.github.io/capacitacao-asimov--brayan_cosme-/semana-02-html-css/index.html)
